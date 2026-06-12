@@ -7,6 +7,12 @@ It helps users manage daily tasks easily with a clean and responsive UI.
 
 ---
 
+## 🚀 Live Demo
+
+🔗 [View Live Project](https://shahad-alzuwayhiri.github.io/todo-list-app/)
+
+---
+
 ## 🚀 Features
 
 * Add new tasks
@@ -45,14 +51,13 @@ It helps users manage daily tasks easily with a clean and responsive UI.
 
 ## 📂 Project Structure
 
-```txt id="q9m1ab"
+```txt id="l3q9wp"
 todo-list-app/
 │
 ├── index.html
 ├── style.css
 ├── script.js
-├── images/
-
+├── images
 ```
 
 ---
