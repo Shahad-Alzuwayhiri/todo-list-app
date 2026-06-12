@@ -4,11 +4,12 @@
 
 A simple and interactive **To-Do List application** built using HTML, CSS, and JavaScript.
 It helps users manage daily tasks easily with a clean and responsive UI.
-🔗 [View Live Project](https://shahad-alzuwayhiri.github.io/todo-list-app/)
+
 ---
 
+## 🚀 Live Demo
 
-
+🔗 [View Live Project](https://shahad-alzuwayhiri.github.io/todo-list-app/)
 
 ---
 
@@ -56,7 +57,8 @@ todo-list-app/
 ├── index.html
 ├── style.css
 ├── script.js
-├── images
+├── images/
+
 ```
 
 ---
